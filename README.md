@@ -77,10 +77,10 @@ Please feel free to look through my repositories. If you like any of my work, a 
 
 ## 📜 Certifications
 
-|      Source       |                         Certificate                          |
-| :----------------: | :---------------------------------------------------: |
-| <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a> | <a href="https://www.credly.com/badges/55ef5fe3-eaaf-4a16-bb0d-dd139b1fb36d/public_url"><img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logoColor=orange&labelColor=black" alt="AWS"/></a> |
-| <a href="https://www.hyperiondev.com/"><img src="https://img.shields.io/badge/HyperionDev-00599C?style=for-the-badge&logoColor=white" alt="HyperionDev"/></a>| <a href="https://www.hyperiondev.com/portfolio/SD24050014934/"><img src="https://img.shields.io/badge/HyperionDev-Software%20Engineering%20-00599C?style=for-the-badge&logoColor=blue&labelColor=black" alt="HyperionDev"/></a> |
+|      Source       |                         Certificate                          |        Badge       |
+| :----------------: | :---------------------------------------------------: | :---------------------------------------------------: |
+| <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a> | <a href="https://www.credly.com/badges/55ef5fe3-eaaf-4a16-bb0d-dd139b1fb36d/public_url"><img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logoColor=orange&labelColor=black" alt="AWS"/></a> | <img width="162" height="162" alt="aws-certified-cloud-practitioner" src="https://github.com/user-attachments/assets/d4531971-aea5-4b0b-8561-e67afa7b2d17" /> |
+| <a href="https://www.hyperiondev.com/"><img src="https://img.shields.io/badge/HyperionDev-00599C?style=for-the-badge&logoColor=white" alt="HyperionDev"/></a>| <a href="https://www.hyperiondev.com/portfolio/SD24050014934/"><img src="https://img.shields.io/badge/HyperionDev-Software%20Engineering%20-00599C?style=for-the-badge&logoColor=blue&labelColor=black" alt="HyperionDev"/></a> | |
 
 ---
 
