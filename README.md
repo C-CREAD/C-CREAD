@@ -2,11 +2,18 @@
 
 **Software Engineer | Full-Stack Developer | Problem Solver**
 
-I'm passionate about building scalable web applications and solving complex technical problems. Currently a **Freelance Developer** specializing in full-stack development.
+## 🌻 About Me
+
+I'm passionate about building scalable web applications and solving complex technical problems. Currently a **Freelance Developer** specializing in full-stack development using Python, Django, and FastAPI.
 
 <p align="start">
   <img src="https://komarev.com/ghpvc/?username=c-cread&color=blue" alt="Profile views"/>
 </p>
+
+### My GitHub Stats
+|      Recent                                                                   |                         Activity                                            |       Top Language Usage                                                   |
+| :---------------------------------------------------------------------------: | :-------------------------------------------------------------------------: | :------------------------------------------------------------------------: |
+| <img src="https://gitmystat.vercel.app/recent?theme=dark&username=c-cread" /> | <img src="https://gitmystat.vercel.app/user?theme=dark&username=c-cread" /> | <img src="https://gitmystat.vercel.app/top?theme=dark&username=c-cread" /> |
 
 ---
 
@@ -64,8 +71,6 @@ I'm passionate about building scalable web applications and solving complex tech
   <a href="https://github.com/C-CREAD"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
 </div>
 
-### Recent Activity
-<img src="https://gitmystat.vercel.app/recent?theme=dark&username=c-cread" />
 <!--
 **C-CREAD/C-CREAD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
