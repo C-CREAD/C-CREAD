@@ -72,7 +72,7 @@ Please feel free to look through my repositories. If you like any of my work, a 
 
 ---
 
-## 📫 How to reach me
+## 📫 Contact Me
 <div>
   <a href="mailto:shingai.dzinotyiweyi@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
   <a href="https://www.linkedin.com/in/shingai-dzino-a33183196/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
